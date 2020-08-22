@@ -1,4 +1,4 @@
-# Attribution-ShareAlike 4.0 International
+# Attribution-NonCommercial-ShareAlike 4.0 International
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does
 not provide legal services or legal advice. Distribution of Creative Commons
@@ -43,7 +43,7 @@ licenses.
   [More considerations for the public](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
 
 
-# Creative Commons Attribution-ShareAlike 4.0 International Public License
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be
 bound by the terms and conditions of this Creative Commons
@@ -54,7 +54,7 @@ and conditions, and the Licensor grants You such rights in consideration of
 benefits the Licensor receives from making the Licensed Material available
 under these terms and conditions.
 
-## Section 1 – Definitions
+## Section 1 – Definitions.
 
 a. __Adapted Material__ means material subject to Copyright and Similar Rights
 that is derived from or based upon the Licensed Material and in which the
@@ -69,7 +69,7 @@ b. __Adapter's License__ means the license You apply to Your Copyright and
 Similar Rights in Your contributions to Adapted Material in accordance with the
 terms and conditions of this Public License.
 
-c. __BY-SA Compatible License__ means a license listed at
+c. __BY-NC-SA Compatible License__ means a license listed at
 [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses),
 approved by Creative Commons as essentially the equivalent of this Public
 License.
@@ -105,38 +105,47 @@ Licensor has authority to license.
 j. __Licensor__ means the individual(s) or entity(ies) granting rights under
 this Public License.
 
-k. __Share__ means to provide material to the public by any means or process
+k. __NonCommercial__ means not primarily intended for or directed towards
+commercial advantage or monetary compensation. For purposes of this Public
+License, the exchange of the Licensed Material for other material subject to
+Copyright and Similar Rights by digital file-sharing or similar means is
+NonCommercial provided there is no payment of monetary compensation in
+connection with the exchange.
+
+l. __Share__ means to provide material to the public by any means or process
 that requires permission under the Licensed Rights, such as reproduction,
 public display, public performance, distribution, dissemination, communication,
 or importation, and to make material available to the public including in ways
 that members of the public may access the material from a place and at a time
 individually chosen by them.
 
-l. __Sui Generis Database Rights__ means rights other than copyright resulting
+m. __Sui Generis Database Rights__ means rights other than copyright resulting
 from Directive 96/9/EC of the European Parliament and of the Council of 11
 March 1996 on the legal protection of databases, as amended and/or succeeded,
 as well as other essentially equivalent rights anywhere in the world.
 
-m. __You__ means the individual or entity exercising the Licensed Rights under
+n. __You__ means the individual or entity exercising the Licensed Rights under
 this Public License. Your has a corresponding meaning.
 
-## Section 2 – Scope
+## Section 2 – Scope.
 
-a. ___License grant___
+a. ___License grant.___
   1. Subject to the terms and conditions of this Public License, the Licensor
-  hereby grants You a worldwide, royalty-free, non-sublicensable non-exclusive,
-  irrevocable license to exercise the Licensed Rights in the Licensed Material
-  to:
+  hereby grants You a worldwide, royalty-free, non-sublicensable,
+  non-exclusive, irrevocable license to exercise the Licensed Rights in the
+  Licensed Material to:
 
-  A. reproduce and Share the Licensed Material, in whole or in part; and
+  A. reproduce and Share the Licensed Material, in whole or in part, for
+  NonCommercial purposes only; and
 
-  B. produce, reproduce, and Share Adapted Material.
+  B. produce, reproduce, and Share Adapted Material for NonCommercial purposes
+  only.
 
-  2. __Exceptions and Limitations__ For the avoidance of doubt, where
+  2. __Exceptions and Limitations.__ For the avoidance of doubt, where
   Exceptions and Limitations apply to Your use, this Public License does not
   apply, and You do not need to comply with its terms and conditions.
 
-  3. __Term__ The term of this Public License is specified in Section 6(a).
+  3. __Term.__ The term of this Public License is specified in Section 6(a).
 
   4. __Media and formats; technical modifications allowed.__ The Licensor
   authorizes You to exercise the Licensed Rights in all media and formats
@@ -150,21 +159,20 @@ a. ___License grant___
 
   5. __Downstream recipients.__
 
-  A. __Offer from the Licensor – Licensed Material.__ Every recipient of
-  the Licensed Material automatically receives an offer from the Licensor
-  to exercise the Licensed Rights under the terms and conditions of this
-  Public License.
+  A. __Offer from the Licensor – Licensed Material.__ Every recipient of the
+  Licensed Material automatically receives an offer from the Licensor to
+  exercise the Licensed Rights under the terms and conditions of this Public
+  License.
 
-  B. __Additional offer from the Licensor – Adapted Material.__ Every
-  recipient of Adapted Material from You automatically receives an offer
-  from the Licensor to exercise the Licensed Rights in the Adapted
-  Material under the conditions of the Adapter’s License You apply.
+  B. __Additional offer from the Licensor – Adapted Material.__ Every recipient
+  of Adapted Material from You automatically receives an offer from the
+  Licensor to exercise the Licensed Rights in the Adapted Material under the
+  conditions of the Adapter’s License You apply.
 
-  C. __No downstream restrictions.__ You may not offer or impose any
-  additional or different terms or conditions on, or apply any Effective
-  Technological Measures to, the Licensed Material if doing so restricts
-  exercise of the Licensed Rights by any recipient of the Licensed
-  Material.
+  C. __No downstream restrictions.__ You may not offer or impose any additional
+  or different terms or conditions on, or apply any Effective Technological
+  Measures to, the Licensed Material if doing so restricts exercise of the
+  Licensed Rights by any recipient of the Licensed Material.
 
   6. __No endorsement.__ Nothing in this Public License constitutes or may be
   construed as permission to assert or imply that You are, or that Your use of
@@ -186,9 +194,10 @@ b. ___Other rights.___
   from You for the exercise of the Licensed Rights, whether directly or
   through a collecting society under any voluntary or waivable statutory or
   compulsory licensing scheme. In all other cases the Licensor expressly
-  reserves any right to collect such royalties.
+  reserves any right to collect such royalties, including when the Licensed
+  Material is used other than for NonCommercial purposes.
 
-## Section 3 – License Conditions
+## Section 3 – License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the following
 conditions.
@@ -200,9 +209,9 @@ a. ___Attribution.___
   A. retain the following if it is supplied by the Licensor with the Licensed
   Material:
 
-  i. identification of the creator(s) of the Licensed Material and any
-  others designated to receive attribution, in any reasonable manner
-  requested by the Licensor (including by pseudonym if designated);
+  i. identification of the creator(s) of the Licensed Material and any others
+  designated to receive attribution, in any reasonable manner requested by the
+  Licensor (including by pseudonym if designated);
 
   ii. a copyright notice;
 
@@ -234,7 +243,7 @@ b. ___ShareAlike.___
   You produce, the following conditions also apply.
 
   1. The Adapter’s License You apply must be a Creative Commons license with
-  the same License Elements, this version or later, or a BY-SA Compatible
+  the same License Elements, this version or later, or a BY-NC-SA Compatible
   License.
 
   2. You must include the text of, or the URI or hyperlink to, the Adapter's
@@ -246,14 +255,14 @@ b. ___ShareAlike.___
   restrict exercise of the rights granted under the Adapter's License You
   apply.
 
-## Section 4 – Sui Generis Database Rights
+## Section 4 – Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to
 Your use of the Licensed Material:
 
 a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract,
 reuse, reproduce, and Share all or a substantial portion of the contents of the
-database;
+database for NonCommercial purposes only;
 
 b. if You include all or a substantial portion of the database contents in a
 database in which You have Sui Generis Database Rights, then the database in
@@ -267,7 +276,7 @@ For the avoidance of doubt, this Section 4 supplements and does not replace
 Your obligations under this Public License where the Licensed Rights include
 other Copyright and Similar Rights.
 
-## Section 5 – Disclaimer of Warranties and Limitation of Liability
+## Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
 a. __Unless otherwise separately undertaken by the Licensor, to the extent
 possible, the Licensor offers the Licensed Material as-is and as-available, and
@@ -292,7 +301,7 @@ c. The disclaimer of warranties and limitation of liability provided above
 shall be interpreted in a manner that, to the extent possible, most closely
 approximates an absolute disclaimer and waiver of all liability.
 
-## Section 6 – Term and Termination
+## Section 6 – Term and Termination.
 
 a. This Public License applies for the term of the Copyright and Similar Rights
 licensed here. However, if You fail to comply with this Public License, then
@@ -316,7 +325,7 @@ Material at any time; however, doing so will not terminate this Public License.
 
 d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
-## Section 7 – Other Terms and Conditions
+## Section 7 – Other Terms and Conditions.
 
 a. The Licensor shall not be bound by any additional or different terms or
 conditions communicated by You unless expressly agreed.
@@ -325,7 +334,7 @@ b. Any arrangements, understandings, or agreements regarding the Licensed
 Material not stated herein are separate from and independent of the terms and
 conditions of this Public License.
 
-## Section 8 – Interpretation
+## Section 8 – Interpretation.
 
 a. For the avoidance of doubt, this Public License does not, and shall not be
 interpreted to, reduce, limit, restrict, or impose conditions on any use of the
